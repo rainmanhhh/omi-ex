@@ -1,0 +1,22 @@
+{
+  "name": "omi-ex",
+  "version": "1.0.0",
+  "description": "omi extension",
+  "main": "dist/index.js",
+  "author": "rainmanhhh <rainmanhhh@tom.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "omi": "^5.0.9"
+  },
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.1"
+  }
+}
