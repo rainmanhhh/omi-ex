@@ -177,6 +177,13 @@ minimatch@^3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
+omi-router@^2.0.8:
+  version "2.0.8"
+  resolved "http://registry.npm.taobao.org/omi-router/download/omi-router-2.0.8.tgz#4f1d347b60df55a594268e4952d00fa3a8dacf63"
+  integrity sha1-Tx00e2DfVaWUJo5JUtAPo6jaz2M=
+  dependencies:
+    path-to-regexp latest
+
 omi@^5.0.9:
   version "5.0.9"
   resolved "http://registry.npm.taobao.org/omi/download/omi-5.0.9.tgz#c109391b9ab0da45ce0471077142832b1cb3a6c7"
@@ -198,6 +205,11 @@ path-parse@^1.0.5:
   version "1.0.6"
   resolved "http://registry.npm.taobao.org/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
   integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+
+path-to-regexp@latest:
+  version "2.4.0"
+  resolved "http://registry.npm.taobao.org/path-to-regexp/download/path-to-regexp-2.4.0.tgz#35ce7f333d5616f1c1e1bfe266c3aba2e5b2e704"
+  integrity sha1-Nc5/Mz1WFvHB4b/iZsOrouWy5wQ=
 
 resolve@^1.3.2:
   version "1.8.1"

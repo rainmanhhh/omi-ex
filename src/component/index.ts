@@ -2,7 +2,7 @@ import {ComponentChildren, define, h as omiH, VNode, WeElementConstructor} from 
 
 const COMPONENT_PREFIX = 'oc-'
 
-interface OmiComponent {
+export interface OmiComponent {
   __omiComponentName: string
 }
 
