@@ -1,2 +1,2 @@
-export * from "./router"
-export * from "./component"
+export * from './route'
+export * from './util'
